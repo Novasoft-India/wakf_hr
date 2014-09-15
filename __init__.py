@@ -1,1 +1,4 @@
+import hr_inherit
+import employee_career
+import hr_inherit_payroll
 import earned_leave
